@@ -21,5 +21,7 @@ The word lists were written to the namecoin blockchain from the parent utxo of N
 signed hash of aaA.py:
 
 signature: IOuymG6bcx8dkH86WlsY8TPE1JxHlwmdx6h2a73pc38mL4QULqQQynD/GWDTdPGY09SmHfm7C356aE4y1HX2wwk=
+
 address: N6BB8y2e4sRXSGN94zedSVaiZQUfYbqL7M
+
 message: 19ae61d224e663a3c20dcf45d386ad522b4d3c13d8da228945c135cd0bae05c3
