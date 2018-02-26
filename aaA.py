@@ -77,8 +77,8 @@ class Mnemonic(object):
     def to_entropy(self, words):
         if not isinstance(words, list):
             words = words.split(' ')
-        if len(words) not in [18, 21, 24, 27, 30, 33]:
-            raise ValueError('Number of words must be one of the following: [18, 21, 24, 27, 30, 33], but it is not (%d).' % len(words))
+        if len(words) not in [18, 21, 24, 27, 30, 33, 36]:
+            raise ValueError('Number of words must be one of the following: [18, 21, 24, 27, 30, 33, 36], but it is not (%d).' % len(words))
             print ("incorrect number of words")
         # Look up all the words in the list and construct the
         # concatenation of the original entropy and the checksum.
