@@ -110,8 +110,8 @@ Hornet
 Husky
 Hydra
 Hyena
-Hyra
-Ibe
+Hyrax
+Ibex
 Iguana
 Impala
 Inchworm
@@ -174,7 +174,7 @@ Peccary
 Pelican
 Penguin
 Pheasant
-Phoeni
+Phoenix
 Pigeon
 Piranha
 Pitbull
@@ -217,7 +217,7 @@ Silkworm
 Skylark
 Songbird
 Sparrow
-Sphin
+Sphinx
 Spider
 Spoonbill
 Squirrel
